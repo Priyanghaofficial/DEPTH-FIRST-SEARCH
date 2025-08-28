@@ -115,23 +115,25 @@ D E <BR>
 D G <BR>
 G F <BR>
 
-<h3>Sample Output</h3>
-
-![image](https://github.com/user-attachments/assets/07fdf91a-5574-47e0-9f37-c27c78645dff)
 
 <h3>Sample Input</h3>
-
-5 6 <BR>
-0 1 <BR>
-0 2 <BR>
-1 2 <BR>
-1 3 <BR>
-2 4 <BR>
-3 4 <BR>
+['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
 <h3>Sample Output</h3>
+5 6
+0 1
+0 2
+1 2
+1 3
+2 4
+3 4
 
-![image](https://github.com/user-attachments/assets/5897144a-34cf-4e92-9de0-72654bab93ce)
+
+
+
+<h3>Sample Output</h3>
+['0', '1', '2', '3', '4']
+
 
 <h3>Result:</h3>
 
